@@ -72,3 +72,29 @@ ___Very Important Reading___
 ### Relational
 
 - [Link](https://awseducate.instructure.com/courses/193/pages/databases-relational?module_item_id=4634)
+
+## Network
+
+Topics related to Networking:
+
+- Architecture and Troubleshooting
+- Infrastructure Provisioning
+- Directory Services
+
+### Architecture
+
+Network Architecture is the complete framework of an organization's computer network. The diagram of the network architecture provides a full picture of the established network with detailed view of all the resources accessible. It includes hardware components used for communication, cabling and device types, network layout and topologies, physical and wireless connections, implemented areas and future plans. In addition, the software rules and protocols also constitute to the network architecture. This architecture is always designed by a network manager/administrator with coordination of network engineers and other design engineers.
+
+Cloud computing architecture refers to the components and subcomponents required for cloud computing. These components typically consist of a front end platform (fat client, thin client, mobile device), back end platforms (servers, storage), a cloud based delivery, and a network (Internet, Intranet, Intercloud).
+
+#### Front End Platform
+
+Front-end is the side that is visible to the client, customer, or user. Front-end pieces include the user interface, and the client’s computer system or network that is used for accessing the cloud system.
+
+#### Back End Platform
+
+The back-end pieces are on the side used by the service provider. These include various servers, computers, data storage systems, virtual machines, and programs that together constitute the cloud of computing services. The back-end side also is responsible for providing security mechanisms, traffic control and protocols that connect networked computers for communication.
+
+#### Cloud Based Platform
+
+Cloud computing services are everywhere these days. For example, if you use QuickBooks for your accounting, or Expedia to schedule your travel, or Netflix to watch you favorite series, you’re a cloud computing user. These are all examples of subscriptions a company or individual can purchase that enable them to use the software, typically known as Software-as-a-Service, or SaaS.
