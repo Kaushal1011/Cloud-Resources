@@ -50,7 +50,7 @@ Amazon Polly is a service that turns text into lifelike speech, allowing you to 
 
 - Traditional ML development is a complex,expensive, iterative process made even  harder because there are no integrated tools for the entire machine learning workflow. You need to stitch together tools and workflows, which is time-consuming and error-prone. SageMaker solves this challenge by providing all of the components used for machine learning in a single toolset so models get to production faster with much less effort and at lower cost.
 
-![](sage.PNG)
+![Sage](img/sage.PNG)
 
 ### [Amazon DeepLens](https://aws.amazon.com/deeplens/)
 
@@ -110,6 +110,7 @@ Cool Links to useful resources for ML
 - [AWS Public Datasets](https://registry.opendata.aws/)
 
 Cool Links Specific to ML when on AWS:
+
 - [Neural Nets Uncool AWS Style](https://aws.amazon.com/blogs/machine-learning/making-neural-nets-uncool-again-aws-style/)
 - [Machine Learning at Your Startup](https://youtu.be/5_LNHWgsYo4)
 - [ML and AI on AWS](https://aws.amazon.com/blogs/machine-learning/now-available-new-digital-training-to-help-you-learn-about-machine-learning-and-artificial-intelligence-on-aws/)
