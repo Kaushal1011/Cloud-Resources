@@ -21,7 +21,7 @@ There are essentially three layers in the stack:
 
 3. Frameworks/Infrastructure services designed for advanced/deep learning data scientists.
 
-![AWS ML STACK](awsmlstack.PNG)
+![AWS ML STACK](img/awsmlstack.PNG)
 
 ## API-based services
 
