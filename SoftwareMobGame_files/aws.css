@@ -1,0 +1,32 @@
+a#global_nav_calendar_link.ic-app-header__menu-list-link {
+   display: none !important;  
+}
+
+
+a#global_nav_courses_link.ic-app-header__menu-list-link{
+   display: none !important;  
+}
+
+a#global_nav_profile_link.ic-app-header__menu-list-link{
+   display: none !important;  
+}
+
+a#global_nav_conversations_link.ic-app-header__menu-list-link{
+   display: none !important;  
+}
+
+a#global_nav_help_link.ic-app-header__menu-list-link{
+  display: none !important;  
+}
+
+div#add_comment_form{
+  display:none !important;
+}
+
+div.dashboard-toggle-button-layout {
+  display: none !important;
+}
+
+div.ic-notification {
+  display: none !important;
+}

@@ -1,0 +1,12 @@
+//comma-separated list of url patterns identifying the specific courses we want to hide the nav bar for
+var selectedCourseURLs = ['/courses/179/pages' , '/courses/180/pages' , '/courses/220/pages' , '/courses/208/pages/project' , '/courses/208/assignments/753', '/courses/241/pages/benefits-of-cloud-computing', '/courses/241/pages/three-models', '/courses/241/pages/cloud-history-lesson-complete', '/courses/241/pages/scenario-1-data-collaboration', '/courses/241/pages/scenario-2-data-tagging', '/courses/241/pages/scenario-3-data-analysis', '/courses/241/pages/cloud-careers-lesson-complete', '/courses/241/pages/aws-management-console-cont', '/courses/241/pages/aws-console-lesson-complete', '/courses/241/pages/amazon-simple-storage-service-s3-lesson-complete', '/courses/241/pages/amazon-simple-storage-service-s3-lesson-complete', '/courses/241/pages/amazon-s3-exercise-complete', '/courses/241/pages/test-and-deploy-lesson-complete', '/courses/241/pages/connecting-using-aws', '/courses/241/pages/cloud-compute-pt-1-lesson-complete', '/courses/241/pages/cloud-compute-pt-2-are-we-connected-yet', '/courses/241/pages/cloud-compute-pt-2-lesson-complete', '/courses/241/pages/filming-from-mars', '/courses/241/pages/cloud-compute-exercise-complete', '/courses/241/pages/cloud-website-exercise-complete', '/courses/241/pages/amazon-lex-lesson-complete', '/courses/241/pages/congratulations','/courses/198/pages/software-development-engineer-project','/courses/466/pages'];
+ 
+for(i=0; i<selectedCourseURLs.length; i++){
+            if(window.location.href.indexOf(selectedCourseURLs[i])>-1){
+                        var scriptTag = document.createElement("style");
+                        scriptTag.type = "text/css";
+                        scriptTag.innerHTML = ".module-sequence-footer { visibility:hidden}";
+                        document.body.appendChild(scriptTag);
+                        break;
+            }
+}
