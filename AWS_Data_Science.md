@@ -114,9 +114,9 @@ Data streaming is applied in multiple ways with various protocols and tools that
 
 Before dealing with streaming data, it is worth comparing and contrasting stream processing and batch processing. Batch processing can be used to compute arbitrary queries over different sets of data. It usually computes results that are derived from all the data it encompasses, and enables deep analysis of big data sets. MapReduce-based systems, like Amazon EMR, are examples of platforms that support batch jobs. In contrast, stream processing requires ingesting a sequence of data, and incrementally updating metrics, reports, and summary statistics in response to each arriving data record. It is better suited for real-time monitoring and response functions.
 
-[batch](img/batchvstream.PNG)
+![batch](img/batchvstream.PNG)
 
-[kinesistream](img/kinesisdatastream.png)
+![kinesistream](img/kinesisdatastream.png)
 
 - [What is Data Stream ?](https://www.coursera.org/lecture/big-data-management/what-is-a-data-stream-BNQkJ)
 
